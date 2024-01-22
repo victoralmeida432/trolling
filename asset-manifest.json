@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/trollinh/static/css/main.82a221e0.css",
-    "main.js": "/trollinh/static/js/main.8c47f453.js",
-    "index.html": "/trollinh/index.html",
-    "main.82a221e0.css.map": "/trollinh/static/css/main.82a221e0.css.map",
-    "main.8c47f453.js.map": "/trollinh/static/js/main.8c47f453.js.map"
+    "main.css": "/trolling/static/css/main.82a221e0.css",
+    "main.js": "/trolling/static/js/main.c6d1757c.js",
+    "index.html": "/trolling/index.html",
+    "main.82a221e0.css.map": "/trolling/static/css/main.82a221e0.css.map",
+    "main.c6d1757c.js.map": "/trolling/static/js/main.c6d1757c.js.map"
   },
   "entrypoints": [
     "static/css/main.82a221e0.css",
-    "static/js/main.8c47f453.js"
+    "static/js/main.c6d1757c.js"
   ]
 }
