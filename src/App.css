@@ -1,38 +1,53 @@
-.App {
-  text-align: center;
-}
+/* Add this to your App.css file or equivalent */
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black; /* Set the background to black */
+    color: white; /* Set the text color to white */
+    font-family: 'Arial', sans-serif; /* You can choose any font you like */
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  
+  #app {
+    text-align: center;
   }
-  to {
-    transform: rotate(360deg);
+  
+  .title {
+    font-size: 2em;
+    margin-bottom: 100px;
   }
-}
+  
+  .options-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .option {
+    margin: 0 100px;
+  }
+  
+  .vote-button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: white; /* Button background to white */
+    color: black; /* Button text color to black */
+    border: none;
+    cursor: pointer;
+  }
+  
+  .vote-button:hover {
+    background-color: grey; /* Button hover state */
+  }
+  
+  .vote-count {
+    margin-top: 10px;
+    font-size: 1.5em;
+  }
+  
