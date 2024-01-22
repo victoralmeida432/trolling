@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/trolling/static/css/main.82a221e0.css",
-    "main.js": "/trolling/static/js/main.c6d1757c.js",
-    "index.html": "/trolling/index.html",
-    "main.82a221e0.css.map": "/trolling/static/css/main.82a221e0.css.map",
-    "main.c6d1757c.js.map": "/trolling/static/js/main.c6d1757c.js.map"
+    "main.css": "https://victoralmeid432.github.io/trolling/static/css/main.82a221e0.css",
+    "main.js": "https://victoralmeid432.github.io/trolling/static/js/main.811e75c9.js",
+    "index.html": "https://victoralmeid432.github.io/trolling/index.html",
+    "main.82a221e0.css.map": "https://victoralmeid432.github.io/trolling/static/css/main.82a221e0.css.map",
+    "main.811e75c9.js.map": "https://victoralmeid432.github.io/trolling/static/js/main.811e75c9.js.map"
   },
   "entrypoints": [
     "static/css/main.82a221e0.css",
-    "static/js/main.c6d1757c.js"
+    "static/js/main.811e75c9.js"
   ]
 }
