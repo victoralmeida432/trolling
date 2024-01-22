@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trollinh/static/css/main.82a221e0.css",
+    "main.js": "/trollinh/static/js/main.8c47f453.js",
+    "index.html": "/trollinh/index.html",
+    "main.82a221e0.css.map": "/trollinh/static/css/main.82a221e0.css.map",
+    "main.8c47f453.js.map": "/trollinh/static/js/main.8c47f453.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a221e0.css",
+    "static/js/main.8c47f453.js"
+  ]
+}
