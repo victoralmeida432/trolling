@@ -2,7 +2,7 @@
   "name": "voting-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://victoralmeida432.github.io/trollinh",
+  "homepage": "https://victoralmeida432.github.io/trolling",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
